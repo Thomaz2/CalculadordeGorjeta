@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Calculador de Gorjeta</string>
     <string name="valor_gorjeta">Total da Gorjeta: %s</string>
+    <string name="calculador_de_gorjeta">Calculador de Gorjeta</string>
+    <string name="valor_da_conta">Valor da conta</string>
+    <string name="gorjeta">% gorjeta</string>
 </resources>
