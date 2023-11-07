@@ -140,7 +140,7 @@ fun campoDeTexto(
         shape = RectangleShape,
         keyboardOptions = KeyboardOptions.Default.copy(
             keyboardType = KeyboardType.Number,
-            imeAction = imeAction
+            imeAction = imeAction""
         ),
     )
     Spacer(
